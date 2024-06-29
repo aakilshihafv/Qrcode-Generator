@@ -25,9 +25,6 @@ This is a simple React application for generating and downloading QR codes. It u
 ```
 git clone https://github.com/aakilshihafv/Qrcode-Generator.git
 ```
-```
-cd qr-code-generator
-```
 
 *   Install dependencies:
   ```
