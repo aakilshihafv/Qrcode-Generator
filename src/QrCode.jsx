@@ -13,7 +13,6 @@ const QrCode = () => {
       const url = `https://api.qrserver.com/v1/create-qr-code/?size=${qrSize}x${qrSize}&data=${encodeURIComponent(
         qrData
       )}`;
-      // const url = `https://www.rajalakshmi.org/QRCode/img/${qrData}.jpg`
      
 
       setImg(url);
