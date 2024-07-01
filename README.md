@@ -57,6 +57,9 @@ npm start
 *   `components/QrCode.js`: QR code generator component.
 
 ##   
+## Screenshot
+
+![Weather Design](https://github.com/aakilshihafv/Qrcode-Generator/blob/main/image/Qrcode_Design.png)
 
 ## Dependencies
 
